@@ -1,5 +1,6 @@
 # Cobra cli tutorial
 ------------------------------
+In this tutorial trying to cover creation of command creation using Cobra and adding sub command.
 
 ## Overview
 > Cobra is both a library for creating powerful modern CLI applications as well as a program to generate 
